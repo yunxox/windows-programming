@@ -1,0 +1,11 @@
+D:\大二上\視窗程式設計作業\1093333_HW2\bin\Debug\1093333_HW2.exe.config
+D:\大二上\視窗程式設計作業\1093333_HW2\bin\Debug\1093333_HW2.exe
+D:\大二上\視窗程式設計作業\1093333_HW2\bin\Debug\1093333_HW2.pdb
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\1093333_HW2.csproj.AssemblyReference.cache
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\_1093333_HW2.Form1.resources
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\_1093333_HW2.Properties.Resources.resources
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\1093333_HW2.csproj.GenerateResource.cache
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\1093333_HW2.csproj.CoreCompileInputs.cache
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\1093333_HW2.exe
+D:\大二上\視窗程式設計作業\1093333_HW2\obj\Debug\1093333_HW2.pdb
+D:\大二上\視窗程式設計作業\1093333_hw2\obj\Debug\1093333_HW2.csproj.SuggestedBindingRedirects.cache
